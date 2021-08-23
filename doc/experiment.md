@@ -15,7 +15,10 @@
 |[exp007_fix_score]||0.4697|0.1735|||
 |[exp008_large]||0.4181|0.2206|||
 |||||||
-|[exp009_10fold]||||||
+|[exp009_10fold]|||||変わらない|
+|exp010_16fold|||||exp009_10foldに混じっちゃってる|
+|exp011_fix_note|||||変わらない|
+|[exp012_end_bug_fix]|||||クソデカバグ修正|
 
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
@@ -28,3 +31,4 @@
 [exp007_fix_score]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72753155
 [exp008_large]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72754720
 [exp009_10fold]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72759526
+[exp012_end_bug_fix]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72782040
