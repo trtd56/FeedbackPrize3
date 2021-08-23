@@ -12,8 +12,11 @@
 |[exp004_swap_q_c]|||||明らかに悪い|
 |[exp005_n_best]||0.3935|0.1499||Linearのinitも追加|
 |[exp006_xlm_roberta]||0.4697|0.1768||勾配累積2, lr=2e-5|
-|[exp007_fix_score]||||||
-|[exp008_large]||||||
+|[exp007_fix_score]||0.4697|0.1735|||
+|[exp008_large]||0.4181|0.2206|||
+|||||||
+|[exp009_10fold]||||||
+
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -24,3 +27,4 @@
 [exp006_xlm_roberta]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72748635
 [exp007_fix_score]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72753155
 [exp008_large]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72754720
+[exp009_10fold]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72759526
