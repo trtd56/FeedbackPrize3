@@ -13,6 +13,7 @@
 |[exp005_n_best]||0.3935|0.1499||Linearのinitも追加|
 |[exp006_xlm_roberta]||0.4697|0.1768||勾配累積2, lr=2e-5|
 |[exp007_fix_score]||||||
+|[exp008_large]||||||
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -22,3 +23,4 @@
 [exp005_n_best]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72744528
 [exp006_xlm_roberta]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72748635
 [exp007_fix_score]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72753155
+[exp008_large]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72754720
