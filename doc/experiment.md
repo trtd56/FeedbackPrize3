@@ -31,4 +31,4 @@
 [exp007_fix_score]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72753155
 [exp008_large]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72754720
 [exp009_10fold]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72759526
-[exp012_end_bug_fix]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72782040
+[exp012_end_bug_fix]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72783826
