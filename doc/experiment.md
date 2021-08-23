@@ -21,7 +21,7 @@
 |||||||
 |[exp012_end_bug_fix]|[exp012_inf_1]|0.3081|0.5141|0.580|クソデカバグ修正|
 |[exp013_token_type_id]|||||使わないときと変わらず|
-|[exp014_bert]|[exp014_inf_1]|||||
+|[exp014_bert]|[exp014_inf_1]|0.2303|0.4655|||
 |[exp015_dropout]|||||使わないときと変わらず|
 
 exp016_div_lang
