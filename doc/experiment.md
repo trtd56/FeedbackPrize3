@@ -21,7 +21,14 @@
 |||||||
 |[exp012_end_bug_fix]|[exp012_inf_1]|0.3081|0.5141|0.580|クソデカバグ修正|
 |[exp013_token_type_id]|||||使わないときと変わらず|
-|[exp014_bert]||||||
+|[exp014_bert]|[exp014_inf_1]|||||
+|[exp015_dropout]|||||使わないときと変わらず|
+
+exp016_div_lang
+exp017_lang_tag
+exp018_msd
+exp019_maxout
+exp020_ddrop
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -37,3 +44,7 @@
 [exp012_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72788418
 [exp013_token_type_id]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72789413
 [exp014_bert]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72790932
+[exp014_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72793521
+[exp015_dropout]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72793933
+
+
