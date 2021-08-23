@@ -21,10 +21,11 @@
 |||||||
 |[exp012_end_bug_fix]|[exp012_inf_1]|0.3081|0.5141|0.580|クソデカバグ修正|
 |[exp013_token_type_id]|||||使わないときと変わらず|
-|[exp014_bert]|[exp014_inf_1]|0.2303|0.4655|||
-|[exp015_dropout]|||||使わないときと変わらず|
+|[exp014_bert]|[exp014_inf_1]|0.2303|0.4655|0.124||
+|[exp015_dropout]|[exp015_inf_1]|0.3069|0.4921||若干悪化？|
+|[exp016_div_lang]|[exp016_inf_1]|0.3232|0.475||スコアとlossは平均なのでズレあり|
 
-exp016_div_lang
+
 exp017_lang_tag
 exp018_msd
 exp019_maxout
@@ -46,5 +47,6 @@ exp020_ddrop
 [exp014_bert]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72790932
 [exp014_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72793521
 [exp015_dropout]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72793933
-
-
+[exp015_inf_1]:https://www.kaggle.com/takamichitoda/chaii-starter
+[exp016_div_lang]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72858130
+[exp016_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-with-divided-hindi-and-tamil?scriptVersionId=72858643
