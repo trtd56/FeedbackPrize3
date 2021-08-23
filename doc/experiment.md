@@ -18,7 +18,7 @@
 |[exp009_10fold]|||||変わらない|
 |exp010_16fold|||||exp009_10foldに混じっちゃってる|
 |exp011_fix_note|||||変わらない|
-|[exp012_end_bug_fix]|||||クソデカバグ修正|
+|[exp012_end_bug_fix]|[exp012_inf_1]||||クソデカバグ修正|
 
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
@@ -32,3 +32,4 @@
 [exp008_large]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72754720
 [exp009_10fold]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72759526
 [exp012_end_bug_fix]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72783826
+[exp012_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72787181
