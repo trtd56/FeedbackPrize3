@@ -22,14 +22,14 @@
 |[exp012_end_bug_fix]|[exp012_inf_1]|0.3081|0.5141|0.580|クソデカバグ修正|
 |[exp013_token_type_id]|||||使わないときと変わらず|
 |[exp014_bert]|[exp014_inf_1]|0.2303|0.4655|0.124||
-|[exp015_dropout]|[exp015_inf_1]|0.3069|0.4921||若干悪化？|
-|[exp016_div_lang]|[exp016_inf_1]|0.3232|0.475||スコアとlossは平均なのでズレあり|
+|[exp015_dropout]|[exp015_inf_1]|0.3069|0.4921|0.582|若干悪化？|
+|[exp016_div_lang]|[exp016_inf_1]|0.3232|0.475|0.544|スコアとlossは平均なのでズレあり|
+|[exp017_msd]|[exp017_inf_1]|0.3084|0.4979|0.557||
+|[exp018_maxout]|[exp018_inf_1]|0.2937|0.5037|||
+|[exp019_rdrop]||||||
 
 
-exp017_lang_tag
-exp018_msd
-exp019_maxout
-exp020_ddrop
+
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -47,6 +47,12 @@ exp020_ddrop
 [exp014_bert]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72790932
 [exp014_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72793521
 [exp015_dropout]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72793933
-[exp015_inf_1]:https://www.kaggle.com/takamichitoda/chaii-starter
-[exp016_div_lang]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72858130
+[exp015_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72858130
+[exp016_div_lang]:https://www.kaggle.com/takamichitoda/chaii-train-with-divided-hindi-and-tamil?scriptVersionId=72857024
 [exp016_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-with-divided-hindi-and-tamil?scriptVersionId=72858643
+[exp017_msd]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72859444
+[exp017_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72861175
+[exp018_maxout]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72861682
+[exp018_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72862594
+[exp019_rdrop]:xxx
+[exp020_lang_tag]:xxx
