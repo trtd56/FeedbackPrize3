@@ -28,9 +28,12 @@
 |[exp018_maxout]|[exp018_inf_1]|0.2937|0.5037|0.611||
 |[exp019_rdrop]|[exp019_inf_1]|0.3034|0.508|0.595||
 |[exp020_lang_tag]|[exp020_inf_1]|0.2862|0.5108|0.612||
-|[exp021_mixout_rdrop_tag]|[exp021_inf_1]||||ここまでの全部のせ|
-|[exp022_reinit]||||||
+|[exp021_mixout_rdrop_tag]|[exp021_inf_1]|||0.620|ここまでの全部のせ|
+|[exp022_gap_loss]||||||
+|[exp023_reinit]||||||
 |[exp023_semi_sup]||||||
+
+
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -61,5 +64,6 @@
 [exp020_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72879477
 [exp021_mixout_rdrop_tag]:https://www.kaggle.com/takamichitoda/chaii-train-mixout-and-r-drop?scriptVersionId=72892630
 [exp021_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-mixout-and-r-drop?scriptVersionId=72896948
-[exp022_reinit]:xxx
+[exp022_gap_loss]:https://www.kaggle.com/takamichitoda/chaii-train-mixout-and-r-drop?scriptVersionId=72908023
+[exp023_reinit]:xxx
 [exp023_semi_sup]:xxx
