@@ -28,7 +28,7 @@
 |[exp018_maxout]|[exp018_inf_1]|0.2937|0.5037|0.611||
 |[exp019_rdrop]|[exp019_inf_1]|0.3034|0.508|0.595||
 |[exp020_lang_tag]|[exp020_inf_1]|0.2862|0.5108|0.612||
-|[exp021_mixout_rdrop_tag]|[exp021_inf_1]|||0.620|ここまでの全部のせ|
+|[exp021_mixout_rdrop_tag]|[exp021_inf_1]|0.2841|0.512|0.620|ここまでの全部のせ|
 |[exp022_gap_loss]||||||
 |[exp023_reinit]||||||
 |[exp023_semi_sup]||||||
