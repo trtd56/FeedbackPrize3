@@ -67,6 +67,6 @@ semi_sup
 [exp021_mixout_rdrop_tag]:https://www.kaggle.com/takamichitoda/chaii-train-mixout-and-r-drop?scriptVersionId=72892630
 [exp021_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-mixout-and-r-drop?scriptVersionId=72896948
 [exp022_gap_loss]:https://www.kaggle.com/takamichitoda/chaii-train-mixout-and-r-drop?scriptVersionId=72908023
-[exp023_reinit1]:https://www.kaggle.com/takamichitoda/chaii-train-mixout-and-r-drop?scriptVersionId=72966197
-[exp024_reinit2]:xxx
+[exp023_reinit1]:https://www.kaggle.com/takamichitoda/chaii-train-mixout-and-r-drop?scriptVersionId=72968767
+[exp024_reinit2]:https://www.kaggle.com/takamichitoda/chaii-train-mixout-and-r-drop?scriptVersionId=72966513
 [exp025_gap_loss_fix]:xxx
