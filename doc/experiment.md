@@ -54,5 +54,5 @@
 [exp017_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72861175
 [exp018_maxout]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72861682
 [exp018_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72863249
-[exp019_rdrop]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72866375
+[exp019_rdrop]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72874844
 [exp020_lang_tag]:xxx
