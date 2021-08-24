@@ -26,8 +26,8 @@
 |[exp016_div_lang]|[exp016_inf_1]|0.3232|0.475|0.544|スコアとlossは平均なのでズレあり|
 |[exp017_msd]|[exp017_inf_1]|0.3084|0.4979|0.557||
 |[exp018_maxout]|[exp018_inf_1]|0.2937|0.5037|0.611||
-|[exp019_rdrop]||0.508|0.3034|||
-|[exp020_lang_tag]||||||
+|[exp019_rdrop]|[exp019_inf_1]|0.3034|0.508|0.595||
+|[exp020_lang_tag]|[exp020_inf_1]|0.2862|0.5108|0.612||
 
 
 
@@ -55,4 +55,6 @@
 [exp018_maxout]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72861682
 [exp018_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72863249
 [exp019_rdrop]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72874844
-[exp020_lang_tag]:xxx
+[exp019_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72877471
+[exp020_lang_tag]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72877730
+[exp020_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer?scriptVersionId=72879477
