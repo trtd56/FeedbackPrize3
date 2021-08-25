@@ -34,7 +34,7 @@
 |[exp024_reinit2]||0.2955|0.4897|||
 |[exp025_gap_loss_fix]|||||変わらず悪い|
 |[exp026_add_ml_qa]||||||
-
+|[exp027_indic_bert]||||||
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -71,3 +71,4 @@
 [exp024_reinit2]:https://www.kaggle.com/takamichitoda/chaii-train-mixout-and-r-drop?scriptVersionId=72966513
 [exp025_gap_loss_fix]:https://www.kaggle.com/takamichitoda/chaii-train-mixout-and-r-drop?scriptVersionId=72975075
 [exp026_add_ml_qa]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73001436
+[exp027_indic_bert]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73006473
