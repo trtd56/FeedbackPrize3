@@ -75,6 +75,6 @@
 [exp025_gap_loss_fix]:https://www.kaggle.com/takamichitoda/chaii-train-mixout-and-r-drop?scriptVersionId=72975075
 [exp026_add_ml_qa]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73001436
 [exp027_indic_bert]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73006473
-[exp028_weight_lang]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73012063
+[exp028_weight_lang]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73012917
 [exp029_reduction]:xxx
 [exp030_ml_qa_w01]:xxx
