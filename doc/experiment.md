@@ -37,7 +37,7 @@
 |[exp027_indic_bert]|||||悪い|
 |[exp028_weight_lang]||||||
 |[exp029_reduction]|||||pos weightは微妙そう？|
-|[exp030_ml_qa_w01]||||||
+|[exp030_ml_qa_w01]|||||悪い|
 |[exp031_no_rdrop]||||||
 |[exp032_no_rdrop_gap]||||||
 
@@ -80,5 +80,5 @@
 [exp028_weight_lang]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73012917
 [exp029_reduction]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73021325
 [exp030_ml_qa_w01]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73029100
-[exp031_no_rdrop]:xxx
+[exp031_no_rdrop]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73032376
 [exp032_no_rdrop_gap]:xxx
