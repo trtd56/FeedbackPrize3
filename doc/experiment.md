@@ -39,7 +39,7 @@
 |[exp029_reduction]||0.9161|0.4955||pos weightは微妙そう？|
 |[exp030_ml_qa_w01]||0.3907|0.409||悪い|
 |[exp031_no_rdrop]|[exp031_inf_1]|0.2847|0.5101|0.622||
-|[exp032_no_rdrop_gap]|[exp032_inf_1]||0.48|0.561||
+|[exp032_no_rdrop_gap]|[exp032_inf_1]|0.8448|0.48|0.561||
 |[exp033_no_rdrop_bs16]|[exp033_inf_1]|0.2862|0.5108|0.612||
 |[exp033_no_rdrop_bs16]|[exp033_inf_2]|0.2862|0.5108||後処理|
 
