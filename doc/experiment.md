@@ -81,4 +81,4 @@
 [exp029_reduction]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73021325
 [exp030_ml_qa_w01]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73029100
 [exp031_no_rdrop]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73032376
-[exp032_no_rdrop_gap]:xxx
+[exp032_no_rdrop_gap]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73080608
