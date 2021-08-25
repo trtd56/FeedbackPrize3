@@ -42,6 +42,7 @@
 |[exp032_no_rdrop_gap]|[exp032_inf_1]|0.8448|0.48|0.561||
 |[exp033_no_rdrop_bs16]|[exp033_inf_1]|0.2862|0.5108|0.612||
 |[exp033_no_rdrop_bs16]|[exp033_inf_2]|0.2862|0.5108|0.617|後処理|
+|[exp034_w_hindi_03]||||||
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -89,3 +90,4 @@
 [exp033_no_rdrop_bs16]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73082004
 [exp033_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-external-data?scriptVersionId=73084043
 [exp033_inf_2]:https://www.kaggle.com/takamichitoda/chaii-infer-external-data?scriptVersionId=73084294
+[exp034_w_hindi_03]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73085026
