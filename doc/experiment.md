@@ -30,9 +30,9 @@
 |[exp020_lang_tag]|[exp020_inf_1]|0.2862|0.5108|0.612||
 |[exp021_mixout_rdrop_tag]|[exp021_inf_1]|0.2841|0.512|0.620|ここまでの全部のせ|
 |[exp022_gap_loss]|||||良くない|
-|[exp023_reinit1]||||||
+|[exp023_reinit1]||||0.615||
 |[exp024_reinit2]||||||
-|[exp025_gap_loss_fix]||||||
+|[exp025_gap_loss_fix]|||||変わらず悪い|
 
 
 semi_sup
