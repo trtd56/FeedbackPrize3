@@ -45,6 +45,7 @@
 |[exp034_w_hindi_03]|[exp034_inf_1]|0.301|0.521|0.590||
 |[exp034_w_hindi_03]|[exp034_inf_2]|0.301|0.521|0.595|後処理|
 |[exp035_mlqa]||||||
+|[exp036_rembert]||||||
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -96,3 +97,4 @@
 [exp034_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-external-data?scriptVersionId=73086346
 [exp034_inf_2]:https://www.kaggle.com/takamichitoda/chaii-infer-external-data?scriptVersionId=73086673
 [exp035_mlqa]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73089102
+[exp036_rembert]:https://www.kaggle.com/takamichitoda/chaii-train-rembert?scriptVersionId=73116142
