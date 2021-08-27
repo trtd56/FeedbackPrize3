@@ -45,7 +45,9 @@
 |[exp034_w_hindi_03]|[exp034_inf_1]|0.301|0.521|0.590||
 |[exp034_w_hindi_03]|[exp034_inf_2]|0.301|0.521|0.595|後処理|
 |[exp035_mlqa]||||||
-|[exp036_rembert]||||||
+|[exp036_rembert]|||||良くない、BSの問題？|
+|[exp037_trans_tamil]||0.2935|0.5226|||
+|[exp038_large]||||||
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -98,3 +100,5 @@
 [exp034_inf_2]:https://www.kaggle.com/takamichitoda/chaii-infer-external-data?scriptVersionId=73086673
 [exp035_mlqa]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73089102
 [exp036_rembert]:https://www.kaggle.com/takamichitoda/chaii-train-rembert?scriptVersionId=73116142
+[exp037_trans_tamil]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73123883
+[exp038_large]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73215064
