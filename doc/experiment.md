@@ -47,7 +47,8 @@
 |[exp035_mlqa]||||||
 |[exp036_rembert]|||||良くない、BSの問題？|
 |[exp037_trans_tamil]|[exp037_inf_1]|0.2935|0.5226|0.613||
-
+|||||||
+|[exp039_sigmoid]||||||
 
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
@@ -103,9 +104,12 @@
 [exp036_rembert]:https://www.kaggle.com/takamichitoda/chaii-train-rembert?scriptVersionId=73116142
 [exp037_trans_tamil]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73123883
 [exp037_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-external-data?scriptVersionId=73216114
-
+[exp039_sigmoid]:https://www.kaggle.com/takamichitoda/chaii-train-sigmoid?scriptVersionId=73581017
 
 ### roberta-large 5 CV
+
+|exp|inf|loss|jaccard|LB|memo|
+|--|--|--|--|--|--|
 |[exp038_large_f0]|[exp038_inf_f0]|||||
 |[exp038_large_f1]|[exp038_inf_f1]|||||
 |[exp038_large_f2]|[exp038_inf_f2]|||||
