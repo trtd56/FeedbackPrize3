@@ -117,18 +117,18 @@
 |exp|inf|loss|jaccard|LB|memo|
 |--|--|--|--|--|--|
 |[exp038_large_f0]|[exp038_inf_f0]|0.2465|0.6388|0.715||
-|[exp038_large_f1]|[exp038_inf_f1]|||||
+|[exp038_large_f1]|[exp038_inf_f1]|0.2380|0.6560|||
 |[exp038_large_f2]|[exp038_inf_f2]|||||
 |[exp038_large_f3]|[exp038_inf_f3]|||||
 |[exp038_large_f4]|[exp038_inf_f4]|0.2136|0.6452|0.703||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
-[exp038_large_f2]:xxx
+[exp038_large_f2]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73599928
 [exp038_large_f3]:xxx
 [exp038_large_f4]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73578107
 [exp038_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73233243
-[exp038_inf_f1]:xxx
+[exp038_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73600052
 [exp038_inf_f2]:xxx
 [exp038_inf_f3]:xxx
 [exp038_inf_f4]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73585823
