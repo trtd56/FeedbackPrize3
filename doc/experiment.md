@@ -47,10 +47,8 @@
 |[exp035_mlqa]||||||
 |[exp036_rembert]|||||良くない、BSの問題？|
 |[exp037_trans_tamil]|[exp037_inf_1]|0.2935|0.5226|0.613||
-|[exp038_large]|[exp038_inf_1]|||||
 
 
-- large 5 fold: https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73233407
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -105,5 +103,22 @@
 [exp036_rembert]:https://www.kaggle.com/takamichitoda/chaii-train-rembert?scriptVersionId=73116142
 [exp037_trans_tamil]:https://www.kaggle.com/takamichitoda/chaii-train-external-data?scriptVersionId=73123883
 [exp037_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-external-data?scriptVersionId=73216114
-[exp038_large]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
-[exp038_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73233243
+
+
+### roberta-large 5 CV
+|[exp038_large_f0]|[exp038_inf_f0]|||||
+|[exp038_large_f1]|[exp038_inf_f1]|||||
+|[exp038_large_f2]|[exp038_inf_f2]|||||
+|[exp038_large_f3]|[exp038_inf_f3]|||||
+|[exp038_large_f4]|[exp038_inf_f4]|||||
+
+[exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
+[exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73578107
+[exp038_large_f2]:xxx
+[exp038_large_f3]:xxx
+[exp038_large_f4]:xxx
+[exp038_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73233243
+[exp038_inf_f1]:xxx
+[exp038_inf_f2]:xxx
+[exp038_inf_f3]:xxx
+[exp038_inf_f4]:xxx
