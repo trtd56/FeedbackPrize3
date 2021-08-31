@@ -50,6 +50,8 @@
 |||||||
 |[exp039_sigmoid]||||||
 |[exp040_bce_and_ce]||||||
+|[exp041_bce_mask]||||||
+|[exp042_bce_multi]||||||
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -106,6 +108,8 @@
 [exp037_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-external-data?scriptVersionId=73216114
 [exp039_sigmoid]:https://www.kaggle.com/takamichitoda/chaii-train-sigmoid?scriptVersionId=73581017
 [exp040_bce_and_ce]:https://www.kaggle.com/takamichitoda/chaii-train-sigmoid?scriptVersionId=73584200
+[exp041_bce_mask]:xxx
+[exp042_bce_multi]:xxx
 
 
 ### roberta-large 5 CV
