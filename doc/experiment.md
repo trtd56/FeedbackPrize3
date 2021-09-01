@@ -124,7 +124,7 @@
 |[exp038_large_f2]|[exp038_inf_f2]|0.1747|0.6862|0.698||
 |[exp038_large_f3]|[exp038_inf_f3]|0.2269|0.6765|0.713||
 |[exp038_large_f4]|[exp038_inf_f4]|0.2136|0.6452|0.703||
-|CV|[exp038_inf_cv]|||||
+|CV|[exp038_inf_cv]|||0.739||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
