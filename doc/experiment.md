@@ -126,7 +126,7 @@
 |[exp038_large_f3]|[exp038_inf_f3]|0.2269|0.6765|0.713||
 |[exp038_large_f4]|[exp038_inf_f4]|0.2136|0.6452|0.703||
 |CV|[exp038_inf_cv_1]|||0.739|AVG|
-|CV|[exp038_inf_cv_2]||||MAX|
+|CV|[exp038_inf_cv_2]|||0.721|MAX|
 |CV|[exp038_inf_cv_3]||||W AVG|
 |||||||
 |[exp044_reinit_f0]|[exp044_inf_f0]|0.247|0.6444|0.713||
