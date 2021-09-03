@@ -56,7 +56,7 @@
 |[exp043_relabel]|[exp043_inf_1]|0.2985|0.5038|0.583|[pseudo](https://www.kaggle.com/takamichitoda/chaii-check-pseudo-answer-start?scriptVersionId=73676867)|
 |||||||
 |exp045_muril|||||not good|
-|[exp047_tamil_nlp_movie]||||||
+|[exp047_tamil_nlp_movie]|||||事前学習|
 
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
