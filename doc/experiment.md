@@ -136,9 +136,8 @@
 |[exp044_reinit_f3]|[exp044_inf_f3]|0.2358|0.6703|0.729||
 |[exp044_reinit_f4]|[exp044_inf_f4]|0.2149|0.6885|0.713||
 |CV|[exp044_inf_cv_1]||||Now Best AVG|
-|CV|[exp044_inf_cv_2]||||This CV AVG|
-
-
+|CV|[exp044_inf_cv_2]||||Now Best W AVG|
+|CV|[exp044_inf_cv_3]||||This CV AVG|
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -163,5 +162,6 @@
 [exp044_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73847112
 [exp044_inf_f3]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73851241
 [exp044_inf_f4]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73856133
-[exp044_inf_cv_1]:xxx
-[exp044_inf_cv_2]:xxx
+[exp044_inf_cv_1]:https://www.kaggle.com/takamichitoda/chaii-infer-cv?scriptVersionId=73862468
+[exp044_inf_cv_2]:https://www.kaggle.com/takamichitoda/chaii-infer-cv?scriptVersionId=73863015
+[exp044_inf_cv_3]:xxx
