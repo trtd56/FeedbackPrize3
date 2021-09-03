@@ -131,7 +131,7 @@
 |||||||
 |[exp044_reinit_f0]|[exp044_inf_f0]|0.247|0.6444|0.713||
 |[exp044_reinit_f1]|[exp044_inf_f1]|0.235|0.6571|0.722||
-|[exp044_reinit_f2]|[exp044_inf_f2]|0.1774|0.7147|||
+|[exp044_reinit_f2]|[exp044_inf_f2]|0.1774|0.7147|0.733||
 |[exp044_reinit_f3]|[exp044_inf_f3]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
