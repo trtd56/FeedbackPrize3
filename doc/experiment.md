@@ -56,6 +56,8 @@
 |[exp043_relabel]|[exp043_inf_1]|0.2985|0.5038|0.583|[pseudo](https://www.kaggle.com/takamichitoda/chaii-check-pseudo-answer-start?scriptVersionId=73676867)|
 |||||||
 |exp045_muril|||||not good|
+|[exp047_tamil_nlp_movie]||||||
+
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -116,6 +118,7 @@
 [exp042_load_w_mask]:https://www.kaggle.com/takamichitoda/chaii-train-sigmoid?scriptVersionId=73610554
 [exp043_relabel]:https://www.kaggle.com/takamichitoda/fork-of-chaii-train-sigmoid?scriptVersionId=73678004
 [exp043_inf_1]:https://www.kaggle.com/takamichitoda/chaii-infer-relabel?scriptVersionId=73680174
+[exp047_tamil_nlp_movie]:https://www.kaggle.com/takamichitoda/chaii-train-tamil-nlp?scriptVersionId=73923249
 
 ### roberta-large 5 CV
 
