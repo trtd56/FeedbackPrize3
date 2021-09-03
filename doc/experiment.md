@@ -54,7 +54,8 @@
 |[exp042_load_w_mask]||||||
 |||||||
 |[exp043_relabel]|[exp043_inf_1]|0.2985|0.5038|0.583|[pseudo](https://www.kaggle.com/takamichitoda/chaii-check-pseudo-answer-start?scriptVersionId=73676867)|
-
+|||||||
+|[exp045_muril]||||||
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -132,7 +133,7 @@
 |[exp044_reinit_f0]|[exp044_inf_f0]|0.247|0.6444|0.713||
 |[exp044_reinit_f1]|[exp044_inf_f1]|0.235|0.6571|0.722||
 |[exp044_reinit_f2]|[exp044_inf_f2]|0.1774|0.7147|0.733||
-|[exp044_reinit_f3]|[exp044_inf_f3]|0.2358|0.6703|||
+|[exp044_reinit_f3]|[exp044_inf_f3]|0.2358|0.6703|0.729||
 |[exp044_reinit_f4]|[exp044_inf_f4]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
