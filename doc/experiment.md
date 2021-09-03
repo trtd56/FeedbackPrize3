@@ -55,7 +55,7 @@
 |||||||
 |[exp043_relabel]|[exp043_inf_1]|0.2985|0.5038|0.583|[pseudo](https://www.kaggle.com/takamichitoda/chaii-check-pseudo-answer-start?scriptVersionId=73676867)|
 |||||||
-|[exp045_muril]||||||
+|exp045_muril|||||not good|
 
 [exp000_starter]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72048948
 [exp001_fix_eval]:https://www.kaggle.com/takamichitoda/chaii-starter?scriptVersionId=72194536
@@ -138,6 +138,9 @@
 |CV|[exp044_inf_cv_1]|||0.739|Now Best AVG|
 |CV|[exp044_inf_cv_2]|||0.737|Now Best W AVG|
 |CV|[exp044_inf_cv_3]||||This CV AVG|
+|||||||
+|[exp046_tamil_trans_f0]|[exp046_inf_f0]|0.2431|0.6192|||
+|[exp046_tamil_trans_f1]|[exp046_inf_f1]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -152,6 +155,7 @@
 [exp038_inf_cv_1]:https://www.kaggle.com/takamichitoda/chaii-infer-cv?scriptVersionId=73673973
 [exp038_inf_cv_2]:https://www.kaggle.com/takamichitoda/chaii-infer-cv?scriptVersionId=73843734
 [exp038_inf_cv_3]:https://www.kaggle.com/takamichitoda/chaii-infer-cv?scriptVersionId=73844058
+
 [exp044_reinit_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73788678
 [exp044_reinit_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73800613
 [exp044_reinit_f2]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73843570
@@ -165,3 +169,8 @@
 [exp044_inf_cv_1]:https://www.kaggle.com/takamichitoda/chaii-infer-cv?scriptVersionId=73862468
 [exp044_inf_cv_2]:https://www.kaggle.com/takamichitoda/chaii-infer-cv?scriptVersionId=73863015
 [exp044_inf_cv_3]:https://www.kaggle.com/takamichitoda/chaii-infer-cv?scriptVersionId=73876531
+
+[exp046_tamil_trans_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73878014
+[exp046_tamil_trans_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73921213
+[exp046_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73921259
+[exp046_inf_f1]:xxx
