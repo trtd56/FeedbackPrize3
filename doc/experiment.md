@@ -127,10 +127,12 @@
 |[exp038_large_f4]|[exp038_inf_f4]|0.2136|0.6452|0.703||
 |CV|[exp038_inf_cv_1]|||0.739|AVG|
 |CV|[exp038_inf_cv_2]|||0.721|MAX|
-|CV|[exp038_inf_cv_3]||||W AVG|
+|CV|[exp038_inf_cv_3]|||0.748|W AVG|
 |||||||
 |[exp044_reinit_f0]|[exp044_inf_f0]|0.247|0.6444|0.713||
-|[exp044_reinit_f1]|[exp044_inf_f1]|||||
+|[exp044_reinit_f1]|[exp044_inf_f1]|0.235|0.6571|0.722||
+|[exp044_reinit_f2]|[exp044_inf_f2]|0.1774|0.7147|||
+|[exp044_reinit_f3]|[exp044_inf_f3]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -147,5 +149,9 @@
 [exp038_inf_cv_3]:https://www.kaggle.com/takamichitoda/chaii-infer-cv?scriptVersionId=73844058
 [exp044_reinit_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73788678
 [exp044_reinit_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73800613
+[exp044_reinit_f2]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73843570
+[exp044_reinit_f3]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73847144
 [exp044_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73800704
 [exp044_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73843489
+[exp044_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73847112
+[exp044_inf_f3]:xxx
