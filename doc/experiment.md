@@ -134,7 +134,7 @@
 |[exp044_reinit_f1]|[exp044_inf_f1]|0.235|0.6571|0.722||
 |[exp044_reinit_f2]|[exp044_inf_f2]|0.1774|0.7147|0.733||
 |[exp044_reinit_f3]|[exp044_inf_f3]|0.2358|0.6703|0.729||
-|[exp044_reinit_f4]|[exp044_inf_f4]|0.2149|0.6885|||
+|[exp044_reinit_f4]|[exp044_inf_f4]|0.2149|0.6885|0.713||
 |CV|[exp044_inf_cv_1]||||Now Best AVG|
 |CV|[exp044_inf_cv_2]||||This CV AVG|
 
