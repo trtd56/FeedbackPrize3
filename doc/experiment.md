@@ -143,7 +143,7 @@
 |CV|[exp044_inf_cv_3]|||0.736|This CV AVG|
 |||||||
 |[exp046_tamil_trans_f0]|[exp046_inf_f0]|0.2431|0.6192|0.733||
-|[exp046_tamil_trans_f1]|[exp046_inf_f1]|0.2292|0.6738|||
+|[exp046_tamil_trans_f1]|[exp046_inf_f1]|0.2292|0.6738|0.724||
 |[exp046_tamil_trans_f2]|[exp046_inf_f2]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
