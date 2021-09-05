@@ -178,7 +178,8 @@
 [exp046_tamil_trans_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73878014
 [exp046_tamil_trans_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73921213
 [exp046_tamil_trans_f2]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73992904
+[exp046_tamil_trans_f3]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74060823
 [exp046_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73921259
 [exp046_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73992951
 [exp046_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74060733
-
+[exp046_inf_f3]:
