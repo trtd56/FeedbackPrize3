@@ -76,7 +76,7 @@
 
 [exp048_pre_tamil_nlp_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74078565
 [exp048_pre_tamil_nlp_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74087127
-[exp048_inf_f0]:xxx
+[exp048_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74087805
 [exp048_inf_f1]:xxx
 
 ## ToDo
