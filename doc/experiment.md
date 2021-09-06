@@ -187,7 +187,7 @@
 [exp046_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73992951
 [exp046_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74060733
 [exp046_inf_f3]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74065546
-[exp046_inf_f4]:xxx
+[exp046_inf_f4]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74072740
 [exp046_inf_cv_1]:xxx
 [exp046_inf_cv_2]:xxx
 
