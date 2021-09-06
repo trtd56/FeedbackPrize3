@@ -190,3 +190,13 @@
 [exp046_inf_f4]:xxx
 [exp046_inf_cv_1]:
 [exp046_inf_cv_2]:
+
+
+## ToDo
+
+- tagの有無の実験
+- weight loss (hindi vs tamil)
+- mlqaやxquadなどのhindiの外部データ
+- MSD
+- reinitの実験
+- tamil nlp のtransfer
