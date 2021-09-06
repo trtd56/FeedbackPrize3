@@ -149,6 +149,8 @@
 |[exp046_tamil_trans_f4]|[exp046_inf_f4]|||||
 |CV|[exp046_inf_cv_1]|||0.739|Now Best AVG|
 |CV|[exp046_inf_cv_2]|||0.737|This CV AVG|
+|||||||
+|[exp048_pre_tamil_nlp]|[exp048_inf_f0]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -191,6 +193,8 @@
 [exp046_inf_cv_1]:xxx
 [exp046_inf_cv_2]:xxx
 
+[exp048_pre_tamil_nlp_f0]:xxx
+[exp048_inf_f0]:
 
 ## ToDo
 
