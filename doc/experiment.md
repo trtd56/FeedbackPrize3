@@ -144,8 +144,11 @@
 |||||||
 |[exp046_tamil_trans_f0]|[exp046_inf_f0]|0.2431|0.6192|0.733||
 |[exp046_tamil_trans_f1]|[exp046_inf_f1]|0.2292|0.6738|0.724||
-|[exp046_tamil_trans_f2]|[exp046_inf_f2]|0.1752|0.7085|||
+|[exp046_tamil_trans_f2]|[exp046_inf_f2]|0.1752|0.7085|0.730||
 |[exp046_tamil_trans_f3]|[exp046_inf_f3]|||||
+|[exp046_tamil_trans_f4]|[exp046_inf_f4]|||||
+|CV|[exp046_inf_cv_1]|||0.739|Now Best AVG|
+|CV|[exp046_inf_cv_2]|||0.737|This CV AVG|
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -179,7 +182,11 @@
 [exp046_tamil_trans_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73921213
 [exp046_tamil_trans_f2]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73992904
 [exp046_tamil_trans_f3]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74060823
+[exp046_tamil_trans_f4]:xxx
 [exp046_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73921259
 [exp046_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=73992951
 [exp046_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74060733
-[exp046_inf_f3]:
+[exp046_inf_f3]:xxx
+[exp046_inf_f4]:xxx
+[exp046_inf_cv_1]:
+[exp046_inf_cv_2]:
