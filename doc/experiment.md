@@ -24,7 +24,7 @@
 |[exp046_tamil_trans_f1]|[exp046_inf_f1]|0.2292|0.6738|0.724||
 |[exp046_tamil_trans_f2]|[exp046_inf_f2]|0.1752|0.7085|0.730||
 |[exp046_tamil_trans_f3]|[exp046_inf_f3]|0.2232|0.674|0.736||
-|[exp046_tamil_trans_f4]|[exp046_inf_f4]|||||
+|[exp046_tamil_trans_f4]|[exp046_inf_f4]|0.2109|0.7007|0.745||
 |CV|[exp046_inf_cv_1]|||0.739|Now Best AVG|
 |CV|[exp046_inf_cv_2]|||0.737|This CV AVG|
 |||||||
@@ -68,10 +68,10 @@
 [exp046_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74060733
 [exp046_inf_f3]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74065546
 [exp046_inf_f4]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74072740
-[exp046_inf_cv_1]:xxx
+[exp046_inf_cv_1]:https://www.kaggle.com/takamichitoda/chaii-infer-cv/data?scriptVersionId=74077768
 [exp046_inf_cv_2]:xxx
 
-[exp048_pre_tamil_nlp_f0]:xxx
+[exp048_pre_tamil_nlp_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74075656
 [exp048_inf_f0]:xxx
 
 ## ToDo
