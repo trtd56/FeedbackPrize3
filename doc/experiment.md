@@ -25,8 +25,8 @@
 |[exp046_tamil_trans_f2]|[exp046_inf_f2]|0.1752|0.7085|0.730||
 |[exp046_tamil_trans_f3]|[exp046_inf_f3]|0.2232|0.674|0.736||
 |[exp046_tamil_trans_f4]|[exp046_inf_f4]|0.2109|0.7007|0.745||
-|CV|[exp046_inf_cv_1]|||0.739|Now Best AVG|
-|CV|[exp046_inf_cv_2]|||0.737|This CV AVG|
+|CV|[exp046_inf_cv_1]||||Now Best AVG|
+|CV|[exp046_inf_cv_2]||||This CV AVG|
 |||||||
 |[exp048_pre_tamil_nlp_f0]|[exp048_inf_f0]|||||
 
