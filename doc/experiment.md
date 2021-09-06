@@ -200,3 +200,4 @@
 - MSD
 - reinitの実験
 - tamil nlp のtransfer
+- hindiとtamilを分ける
