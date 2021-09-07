@@ -34,6 +34,8 @@
 |||||||
 |[exp049_only_tamil_f0]|[exp049_inf_f0]||0.5622|0.728||
 |[exp049_only_tamil_f1]|||0.5412|||
+|||||||
+|[exp050_only_hindi_xquad_f0]|[exp050_inf_f0]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -86,15 +88,12 @@
 [exp049_only_tamil_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74149729
 [exp049_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74152155
 
-
-[]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74156669
+[exp050_only_hindi_xquad_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74156669
+[exp050_inf_f0]:xxx
 
 ## ToDo
 
 - tagの有無の実験
 - weight loss (hindi vs tamil)
-- mlqaやxquadなどのhindiの外部データ
 - MSD
 - reinitの実験
-- hindiとtamilを分ける
-  - xquadをvalidに
