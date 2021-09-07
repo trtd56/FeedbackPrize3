@@ -37,6 +37,8 @@
 |||||||
 |[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_loss]|0.2564||||
 |[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_jaccard]||0.6701|||
+|[exp050_only_hindi_xquad_f1]||||||
+
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -90,6 +92,7 @@
 [exp049_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74152155
 
 [exp050_only_hindi_xquad_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74156669
+[exp050_only_hindi_xquad_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74161858
 [exp050_inf_f0_loss]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74161409
 [exp050_inf_f0_jaccard]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74161622
 
