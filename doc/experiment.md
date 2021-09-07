@@ -82,7 +82,9 @@
 [exp048_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74096160
 
 [exp049_only_tamil_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74146892
-[exp049_inf_f0]:xxx
+[exp049_only_tamil_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74149729
+[exp049_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74149755
+[exp049_inf_f1]:xxx
 
 ## ToDo
 
