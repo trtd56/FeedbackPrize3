@@ -94,6 +94,5 @@
 ## ToDo
 
 - tagの有無の実験
-- weight loss (hindi vs tamil)
 - MSD
 - reinitの実験
