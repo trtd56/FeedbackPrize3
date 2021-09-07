@@ -32,6 +32,7 @@
 |[exp048_pre_tamil_nlp_f0]|[exp048_inf_f0]|0.2564|0.6286|0.715||
 |[exp048_pre_tamil_nlp_f1]|[exp048_inf_f1]|0.2427|0.6382|0.703||
 |||||||
+|[exp049_only_tamil_f0]|[exp049_inf_f0]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -79,6 +80,9 @@
 [exp048_pre_tamil_nlp_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74087127
 [exp048_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74087805
 [exp048_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74096160
+
+[exp049_only_tamil_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74146892
+[exp049_inf_f0]:xxx
 
 ## ToDo
 
