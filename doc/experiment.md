@@ -95,6 +95,7 @@
 [exp050_only_hindi_xquad_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74161858
 [exp050_inf_f0_loss]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74161409
 [exp050_inf_f0_jaccard]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74161622
+[exp050_inf_f1_jaccard]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74167256
 
 ## ToDo
 
