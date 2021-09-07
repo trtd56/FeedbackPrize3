@@ -35,8 +35,8 @@
 |[exp049_only_tamil_f0]|[exp049_inf_f0]||0.5622|0.728||
 |[exp049_only_tamil_f1]|||0.5412|||
 |||||||
-|[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_loss]|0.2564||||
-|[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_jaccard]||0.6701|||
+|[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_loss]|0.2564||0.713||
+|[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_jaccard]||0.6701|0.719||
 |[exp050_only_hindi_xquad_f1]||||||
 
 
