@@ -27,12 +27,13 @@
 |[exp046_tamil_trans_f4]|[exp046_inf_f4]|0.2109|0.7007|0.745||
 |CV|[exp046_inf_cv_1]|||0.744|Now Best AVG|
 |CV|[exp044_inf_cv_2]|||0.747|Now Best W AVG|
-|CV|[exp046_inf_cv_3]||||This CV AVG|
+|CV|[exp046_inf_cv_3]|||0.742|This CV AVG|
 |||||||
 |[exp048_pre_tamil_nlp_f0]|[exp048_inf_f0]|0.2564|0.6286|0.715||
 |[exp048_pre_tamil_nlp_f1]|[exp048_inf_f1]|0.2427|0.6382|0.703||
 |||||||
-|[exp049_only_tamil_f0]|[exp049_inf_f0]|||||
+|[exp049_only_tamil_f0]|[exp049_inf_f0]||0.5622|0.728||
+|[exp049_only_tamil_f1]|||0.5412|||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -83,8 +84,10 @@
 
 [exp049_only_tamil_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74146892
 [exp049_only_tamil_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74149729
-[exp049_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-large-model?scriptVersionId=74149755
-[exp049_inf_f1]:xxx
+[exp049_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74152155
+
+
+[]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74156669
 
 ## ToDo
 
@@ -94,3 +97,4 @@
 - MSD
 - reinitの実験
 - hindiとtamilを分ける
+  - xquadをvalidに
