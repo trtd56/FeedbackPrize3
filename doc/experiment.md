@@ -35,8 +35,8 @@
 |[exp049_only_tamil_f0]|[exp049_inf_f0]||0.5622|0.728||
 |[exp049_only_tamil_f1]|||0.5412|||
 |||||||
-|[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_loss]|||||
-|[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_jaccard]|||||
+|[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_loss]|0.2564||||
+|[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_jaccard]||0.6701|||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
