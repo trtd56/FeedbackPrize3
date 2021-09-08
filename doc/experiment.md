@@ -97,7 +97,7 @@
 [exp050_inf_f0_loss]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74161409
 [exp050_inf_f0_jaccard]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74161622
 [exp050_inf_f1_jaccard]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74167256
-[exp050_inf_f1_jaccard]:xxx
+[exp050_inf_f2_jaccard]:xxx
 
 ## ToDo
 
