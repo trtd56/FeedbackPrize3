@@ -39,6 +39,7 @@
 |[exp050_only_hindi_xquad_f0]|[exp050_inf_f0_jaccard]||0.6701|0.719||
 |[exp050_only_hindi_xquad_f1]|[exp050_inf_f1_jaccard]|0.2234|0.7304|0.725||
 |[exp050_only_hindi_xquad_f2]|[exp050_inf_f2_jaccard]|||||
+|[exp050_only_hindi_xquad_f3]|[exp050_inf_f3_jaccard]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -94,10 +95,12 @@
 [exp050_only_hindi_xquad_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74156669
 [exp050_only_hindi_xquad_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74161858
 [exp050_only_hindi_xquad_f2]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74231130
+[exp050_only_hindi_xquad_f3]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74238259
 [exp050_inf_f0_loss]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74161409
 [exp050_inf_f0_jaccard]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74161622
 [exp050_inf_f1_jaccard]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74167256
-[exp050_inf_f2_jaccard]:xxx
+[exp050_inf_f2_jaccard]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74238158
+[exp050_inf_f3_jaccard]:xxx
 
 ## ToDo
 
