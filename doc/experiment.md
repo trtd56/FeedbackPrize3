@@ -42,7 +42,7 @@
 |[exp050_only_hindi_xquad_f3]|[exp050_inf_f3_jaccard]|0.2098|0.7561|||
 |||||||
 |[exp051_cv_xquad_f0]|[exp051_inf_f0]|1.253|0.6897|0.715||
-|[exp051_cv_xquad_f1]|[exp051_inf_f1]|||0.731||
+|[exp051_cv_xquad_f1]|[exp051_inf_f1]|1.174|0.6992|0.731||
 |[exp051_cv_xquad_f2]|[exp051_inf_f2]|||||
 
 
