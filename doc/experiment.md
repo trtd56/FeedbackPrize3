@@ -47,8 +47,8 @@
 |[exp051_cv_xquad_f3]|[exp051_inf_f3]|1.153|0.6878|0.746||
 |[exp051_cv_xquad_f4]|[exp051_inf_f4]|1.07|0.7084|0.719||
 |||||||
-|[exp052_mlqa_f0]|[exp052_inf_f0_jaccard]||||0.735|
-|[exp052_mlqa_f0]|[exp052_inf_f0_loss]|||||
+|[exp052_mlqa_f0]|[exp052_inf_f0_jaccard]||0.7158|0.735||
+|[exp052_mlqa_f0]|[exp052_inf_f0_loss]|1.146||||
 |[exp052_mlqa_f1]|[exp052_inf_f1]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
