@@ -128,7 +128,7 @@
 [exp051_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74263185
 [exp051_inf_f3]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74273989
 [exp051_inf_f4]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74316967
-[exp051_inf_cv_1]:xxx
+[exp051_inf_cv_1]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=74413108
 [exp051_inf_cv_2]:xxx
 
 [exp052_mlqa_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74319003
