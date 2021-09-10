@@ -53,7 +53,7 @@
 |[exp052_mlqa_f0]|[exp052_inf_f0_loss]|1.146||0.734||
 |[exp052_mlqa_f1]|[exp052_inf_f1]|1.169|0.6977|0.737||
 |[exp052_mlqa_f2]|[exp052_inf_f2_jaccard]||0.7768|0.743||
-|[exp052_mlqa_f2]|[exp052_inf_f2_loss]|0.8661||||
+|[exp052_mlqa_f2]|[exp052_inf_f2_loss]|0.8661||0.739||
 |[exp052_mlqa_f3]|[exp052_inf_f3]|||||
 |[exp052_mlqa_f4]|[exp052_inf_f4]|||||
 
