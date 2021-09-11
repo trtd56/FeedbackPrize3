@@ -46,8 +46,9 @@
 |[exp051_cv_xquad_f2]|[exp051_inf_f2]|0.9595|0.7382|0.741||
 |[exp051_cv_xquad_f3]|[exp051_inf_f3]|1.153|0.6878|0.746||
 |[exp051_cv_xquad_f4]|[exp051_inf_f4]|1.07|0.7084|0.719||
-|CV|[exp051_inf_cv_1]||||tamil only fold-4|
-|CV|[exp051_inf_cv_2]||||tamil cv|
+|CV|[exp051_inf_cv_1]||||tamil only fold-4 -> mem over|
+|CV|[exp051_inf_cv_2]||||tamil cv -> mem over|
+|CV|[exp051_inf_cv_3]||||tamil cv fix|
 |||||||
 |[exp052_mlqa_f0]|[exp052_inf_f0_jaccard]||0.7158|0.735||
 |[exp052_mlqa_f0]|[exp052_inf_f0_loss]|1.146||0.734||
@@ -55,7 +56,7 @@
 |[exp052_mlqa_f2]|[exp052_inf_f2_jaccard]||0.7768|0.743||
 |[exp052_mlqa_f2]|[exp052_inf_f2_loss]|0.8661||0.739||
 |[exp052_mlqa_f3]|[exp052_inf_f3]|1.124|0.7215|0.703||
-|[exp052_mlqa_f4]|[exp052_inf_f4]|||||
+|[exp052_mlqa_f4]|[exp052_inf_f4]|1.056|0.724|||
 |||||||
 |[exp053_del_org_f0]|[exp053_inf_f0]|||||
 |||||||
@@ -134,6 +135,7 @@
 [exp051_inf_f4]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74316967
 [exp051_inf_cv_1]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=74413108
 [exp051_inf_cv_2]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=74413881
+[exp051_inf_cv_3]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=74470943
 
 [exp052_mlqa_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74319003
 [exp052_mlqa_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74325328
@@ -146,7 +148,10 @@
 [exp052_inf_f2_jaccard]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74342129
 [exp052_inf_f2_loss]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74396835
 [exp052_inf_f3]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74405476
-[exp052_inf_f4]:xxx
+[exp052_inf_f4]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74470945
+
+[exp053_del_org_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74471037
+[exp053_inf_f0]:xxx
 
 ## ToDo
 
