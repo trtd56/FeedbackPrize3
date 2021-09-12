@@ -62,7 +62,7 @@
 |[exp053_del_org_f0]|[exp053_inf_f0]|1.177|0.7228|0.727||
 |[exp053_del_org_f1]|[exp053_inf_f1]|1.185|0.7071|0.735||
 |[exp053_del_org_f2]|[exp053_inf_f2]|0.8998|0.7677|0.720||
-|[exp053_del_org_f3]|[exp053_inf_f3]|1.091|0.7356|||
+|[exp053_del_org_f3]|[exp053_inf_f3]|1.091|0.7356|0.730||
 |[exp053_del_org_f4]|[exp053_inf_f4]|||||
 |||||||
 |[exp054_mix_cv_f0]|[exp054_inf_f0]|||||
