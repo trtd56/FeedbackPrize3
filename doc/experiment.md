@@ -48,7 +48,7 @@
 |[exp051_cv_xquad_f4]|[exp051_inf_f4]|1.07|0.7084|0.719||
 |CV|[exp051_inf_cv_1]||||tamil only fold-4 -> mem over|
 |CV|[exp051_inf_cv_2]||||tamil cv -> mem over|
-|CV|[exp051_inf_cv_3]||||tamil cv fix|
+|CV|[exp051_inf_cv_3]|||0.757|tamil cv fix|
 |||||||
 |[exp052_mlqa_f0]|[exp052_inf_f0_jaccard]||0.7158|0.735||
 |[exp052_mlqa_f0]|[exp052_inf_f0_loss]|1.146||0.734||
