@@ -184,7 +184,7 @@
 [exp054_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74621501
 
 [exp055_reinit_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74625660
-[exp055_inf_f0]:xxx
+[exp055_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74633842
 
 ## ToDo
 
