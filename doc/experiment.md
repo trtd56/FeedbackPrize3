@@ -76,7 +76,7 @@
 |[exp055_reinit_f1]|[exp055_inf_f1]|1.172|0.6705|0.713||
 |||||||
 |[exp056_cv_mlqa_f0]|[exp056_inf_f0]|||||
-
+|[exp056_cv_mlqa_f1]|[exp056_inf_f1]|||||
 
 [exp038_large_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73217640
 [exp038_large_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=73586001
@@ -193,7 +193,9 @@
 [exp055_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74700401
 
 [exp056_cv_mlqa_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74703280
-[exp056_inf_f0]:xxx
+[exp056_cv_mlqa_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74706731
+[exp056_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74706690
+[exp056_inf_f1]:xxx
 
 ## ToDo
 
