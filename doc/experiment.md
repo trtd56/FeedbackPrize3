@@ -48,7 +48,7 @@
 |[exp051_cv_xquad_f4]|[exp051_inf_f4]|1.07|0.7084|0.719||
 |CV|[exp051_inf_cv_1]||||tamil only fold-4 -> mem over|
 |CV|[exp051_inf_cv_2]||||tamil cv -> mem over|
-|CV|[exp051_inf_cv_3]|||0.757|tamil cv fix|
+|CV|[exp051_inf_cv_3]||0.7047|0.757|tamil cv fix|
 |||||||
 |[exp052_mlqa_f0]|[exp052_inf_f0_jaccard]||0.7158|0.735||
 |[exp052_mlqa_f0]|[exp052_inf_f0_loss]|1.146||0.734||
@@ -57,16 +57,16 @@
 |[exp052_mlqa_f2]|[exp052_inf_f2_loss]|0.8661||0.739||
 |[exp052_mlqa_f3]|[exp052_inf_f3]|1.124|0.7215|0.703||
 |[exp052_mlqa_f4]|[exp052_inf_f4]|1.056|0.724|0.722||
-|CV|[exp052_inf_cv]|||0.741||
+|CV|[exp052_inf_cv]||0.7272|0.741||
 |||||||
 |[exp053_del_org_f0]|[exp053_inf_f0]|1.177|0.7228|0.727||
 |[exp053_del_org_f1]|[exp053_inf_f1]|1.185|0.7071|0.735||
 |[exp053_del_org_f2]|[exp053_inf_f2]|0.8998|0.7677|0.720||
 |[exp053_del_org_f3]|[exp053_inf_f3]|1.091|0.7356|0.730||
 |[exp053_del_org_f4]|[exp053_inf_f4]|1.057|0.7305|0.737||
-|CV|[exp053_inf_cv_1]|||0.742||
+|CV|[exp053_inf_cv_1]||0.7327|0.742||
 |||||||
-|Now Best|[exp053_inf_cv_2]|||0.751|f0-52, f1-52, f2-52, f3-51, f4-53|
+|Now Best|[exp053_inf_cv_2]||0.7217|0.751|f0-52, f1-52, f2-52, f3-51, f4-53|
 |||||||
 |[exp054_mix_cv_f0]|[exp054_inf_f0]|1.229|0.6612|0.720||
 |[exp054_mix_cv_f1]|[exp054_inf_f1]|1.171|0.6628|0.724||
@@ -80,7 +80,7 @@
 |[exp056_cv_mlqa_f2]|[exp056_inf_f2]|1.301|0.6535|0.726||
 |[exp056_cv_mlqa_f3]|[exp056_inf_f3]|1.174|0.6707|0.719||
 |[exp056_cv_mlqa_f4]|[exp056_inf_f4]|1.32|0.6764|0.717||
-|CV|[exp056_inf_cv]|||0.744||
+|CV|[exp056_inf_cv]||0.6667|0.744||
 |||||||
 |[exp057_reinit2_f0]|[exp057_inf_f0]|1.213|0.6793|0.732||
 |[exp057_reinit2_f1]|[exp057_inf_f1]|1.307|0.6548|0.741||
