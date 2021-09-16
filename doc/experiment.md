@@ -50,6 +50,8 @@
 [exp059_inf_f1]:xxx
 
 ## ToDo
+
 - 学習中の評価にpost-processing追加
 - tagの有無の実験
+- スコアを考慮したensemble
 - MSD
