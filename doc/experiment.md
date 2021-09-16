@@ -16,7 +16,7 @@
 |[exp058_add_org_f0]|[exp058_inf_f0]|1.221|0.6656|0.738||
 |[exp058_add_org_f1]|[exp058_inf_f1]|1.309|0.6718|0.740||
 |||||||
-|[exp059_org_pseudo_f0]|[exp059_inf_f0]|1.208|0.6763|||
+|[exp059_org_pseudo_f0]|[exp059_inf_f0]|1.208|0.6763|0.733||
 |[exp059_org_pseudo_f1]|[exp059_inf_f1]|||||
 
 
