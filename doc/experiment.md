@@ -8,7 +8,7 @@
 |[exp056_cv_mlqa_f3]|[exp056_inf_f3]|1.174|0.6707|0.719||
 |[exp056_cv_mlqa_f4]|[exp056_inf_f4]|1.32|0.6764|0.717||
 |CV|[exp056_inf_cv_1]||0.6667|0.744||
-|CV|[exp056_inf_cv_2]||0.6667||hindi前処理なし|
+|CV|[exp056_inf_cv_2]||0.6667|0.738|hindi前処理なし|
 |CV|[exp056_inf_cv_3]||0.6667||score max|
 |CV|[exp056_inf_cv_4]||0.6667||score max, softmax|
 |||||||
