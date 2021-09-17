@@ -23,7 +23,7 @@
 |||||||
 |[exp060_pp_train_f0]||1.215|0.6726|||
 |||||||
-|[exp061_no_lang_tag_f0]|[exp060_inf_f0]|||||
+|[exp061_no_lang_tag_f0]|[exp061_inf_f0]|1.198|0.6647|||
 
 [exp056_cv_mlqa_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74703280
 [exp056_cv_mlqa_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74706731
