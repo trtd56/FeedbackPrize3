@@ -73,7 +73,8 @@
 [exp058_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74884171
 [exp058_inf_f2]:xxx
 [exp058_inf_f3]:xxx
-[exp058_inf_f4]:xxx
+[exp058_inf_f4]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75018470
+[exp058_inf_cv]:xxx
 
 [exp059_org_pseudo_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74883936
 [exp059_org_pseudo_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74891704
