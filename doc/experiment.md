@@ -50,7 +50,7 @@
 [exp057_reinit2_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74788543
 [exp057_reinit2_f2]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74792346
 [exp057_reinit2_f3]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74949284
-[exp057_reinit2_f4]:xxx
+[exp057_reinit2_f4]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74953446
 [exp057_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74788524
 [exp057_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model/output?scriptVersionId=74791457
 [exp057_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=74947458
