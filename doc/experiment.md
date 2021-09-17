@@ -12,6 +12,7 @@
 |CV|[exp056_inf_cv_3]||0.6667|0.723|score max|
 |CV|[exp056_inf_cv_4]||0.6667|0.683|score max, softmax|
 |CV|[exp056_inf_cv_5]||0.6667|0.702|softmax|
+|CV|[exp056_inf_cv_6]||0.6667||w = 3:4:2:1:1|
 |||||||
 |[exp057_reinit2_f0]|[exp057_inf_f0]|1.213|0.6793|0.732||
 |[exp057_reinit2_f1]|[exp057_inf_f1]|1.307|0.6548|0.741||
@@ -48,6 +49,7 @@
 [exp056_inf_cv_3]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=74948489
 [exp056_inf_cv_4]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=74948839
 [exp056_inf_cv_5]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=74954348
+[exp056_inf_cv_6]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=74962068
 
 [exp057_reinit2_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74782911
 [exp057_reinit2_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74788543
