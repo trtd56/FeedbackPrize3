@@ -23,7 +23,7 @@
 |||||||
 |[exp058_add_org_f0]|[exp058_inf_f0]|1.221|0.6656|0.738||
 |[exp058_add_org_f1]|[exp058_inf_f1]|1.309|0.6718|0.740||
-|[exp058_add_org_f2]|[exp058_inf_f2]|1.284|0.6528|||
+|[exp058_add_org_f2]|[exp058_inf_f2]|1.284|0.6528|0.739||
 |[exp058_add_org_f3]|[exp058_inf_f3]|1.186|0.6662|0.732||
 |[exp058_add_org_f4]|[exp058_inf_f4]|1.319|0.6826|0.735||
 |CV|[exp058_inf_cv]||0.6678|0.742||
@@ -60,9 +60,9 @@
 [exp057_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74788524
 [exp057_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model/output?scriptVersionId=74791457
 [exp057_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=74947458
-[exp057_inf_f3]:xxx
+[exp057_inf_f3]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75115785
 [exp057_inf_f4]:xxx
-[exp057_inf_cv]:xxx
+[exp057_inf_cv]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=75115717
 
 [exp058_add_org_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74861279
 [exp058_add_org_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74875155
