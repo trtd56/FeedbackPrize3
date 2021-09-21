@@ -36,7 +36,11 @@
 |||||||
 |[exp060_pp_train_f0]||1.215|0.6726|||
 |||||||
+|CV|[exp053_inf_cv_3]||||xquad best, w=1:1:2:2:1|
+|||||||
 |[exp061_no_lang_tag_f0]|[exp061_inf_f0]|1.198|0.6647|0.730||
+|||||||
+|[exp060_tamil_f0]|[exp060_inf_f0]|||||
 
 [exp056_cv_mlqa_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74703280
 [exp056_cv_mlqa_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74706731
@@ -89,8 +93,13 @@
 
 [exp060_pp_train_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74942214
 
+[exp053_inf_cv_3]:xxx
+
 [exp061_no_lang_tag_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74943955
 [exp061_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74946865
+
+[exp060_tamil_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=75249890
+[exp060_inf_f0]:xxx
 
 ## ToDo
 
@@ -98,5 +107,4 @@
 - FP16なし
 - 勾配累積なし
 
-[exp058_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74866818ｆ累積
-[exp058_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74866818
+
