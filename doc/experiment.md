@@ -43,7 +43,8 @@
 |[exp060_tamil_f0]|[exp060_inf_f0]|0.8995|0.6558|0.747||
 |[exp060_tamil_f1]|[exp060_inf_f1]|0.9116|0.6605|0.735||
 |[exp060_tamil_f2]|[exp060_inf_f2]|0.8449|0.6796|0.748||
-|[exp060_tamil_f3]|[exp060_inf_f3]|||||
+|[exp060_tamil_f3]|[exp060_inf_f3]|||0.747||
+|[exp060_tamil_f4]|[exp060_inf_f4]|||||
 
 [exp056_cv_mlqa_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74703280
 [exp056_cv_mlqa_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74706731
