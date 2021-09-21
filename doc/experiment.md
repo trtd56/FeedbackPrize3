@@ -95,3 +95,8 @@
 ## ToDo
 
 - MSD
+- FP16なし
+- 勾配累積なし
+
+[exp058_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74866818ｆ累積
+[exp058_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=74866818
