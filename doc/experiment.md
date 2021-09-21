@@ -28,7 +28,7 @@
 |[exp058_add_org_f4]|[exp058_inf_f4]|1.319|0.6826|0.735||
 |CV|[exp058_inf_cv]||0.6678|0.742||
 |||||||
-|CV|[exp058_inf_cv_best_1]||||f1のみexp056|
+|CV|[exp058_inf_cv_best_1]|||0.747|f1のみexp056|
 |CV|[exp058_inf_cv_best_2]||||w = 2:3:2:1:1|
 |||||||
 |[exp059_org_pseudo_f0]|[exp059_inf_f0]|1.208|0.6763|0.733||
