@@ -120,7 +120,7 @@
 [exp060_inf_cv_2]:xxx
 
 [exp062_no_acc_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=75329609
-[exp062_inf_f0]:xxx
+[exp062_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75340047
 
 ## ToDo
 
