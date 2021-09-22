@@ -116,7 +116,7 @@
 [exp060_inf_f2]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75270812
 [exp060_inf_f3]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75284338
 [exp060_inf_f4]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model/log?scriptVersionId=75325614
-[exp060_inf_cv_1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model/log?scriptVersionId=75329609
+[exp060_inf_cv_1]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model-cv?scriptVersionId=75339963
 [exp060_inf_cv_2]:xxx
 
 [exp062_no_acc_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=75329609
@@ -126,6 +126,5 @@
 
 - MSD
 - FP16なし
-- 勾配累積なし
 
 
