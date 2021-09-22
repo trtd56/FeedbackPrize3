@@ -48,7 +48,7 @@
 |CV|[exp060_inf_cv_1]||0.6596|||
 |CV|[exp060_inf_cv_2]||0.6596||w=3:1:3:3:2|
 |||||||
-|[exp062_no_acc_f0]|[exp062_inf_f0]|0.9373|0.6424|||
+|[exp062_no_acc_f0]|[exp062_inf_f0]|0.9373|0.6424|0.742||
 |[exp062_no_acc_f1]|[exp062_inf_f1]|||||
 
 [exp056_cv_mlqa_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74703280
