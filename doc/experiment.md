@@ -139,7 +139,7 @@
 [exp063_inf_f0_1]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75410885
 [exp063_inf_f0_2]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75413102
 [exp063_inf_f0_3]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75415781
-[exp063_inf_f0_5]:xxx
+[exp063_inf_f0_5]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75495641
 
 ## ToDo
 
