@@ -51,8 +51,11 @@
 |[exp062_no_acc_f0]|[exp062_inf_f0]|0.9373|0.6424|0.742||
 |[exp062_no_acc_f1]|[exp062_inf_f1]|0.9223|0.651|0.739||
 |||||||
-|[exp063_no_trans_f0]|[exp063_inf_f0]|||||
-
+|[exp063_no_trans_f0_1]|[exp063_inf_f0_1]|||||
+|[exp063_no_trans_f0_2]|[exp063_inf_f0_2]||||sampling * 2|
+|[exp063_no_trans_f0_3]|[exp063_inf_f0_3]||||sampling * 4|
+|[exp063_no_trans_f0_4]|[exp063_inf_f0_4]||||sampling * 8|
+|[exp063_no_trans_f0_5]|[exp063_inf_f0_5]||||sampling * X, acc=8|
 
 [exp056_cv_mlqa_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74703280
 [exp056_cv_mlqa_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74706731
@@ -128,8 +131,16 @@
 [exp062_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75340047
 [exp062_inf_f1]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75406692
 
-[exp063_no_trans_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=75406818
-[exp063_inf_f0]:xxx
+[exp063_no_trans_f0_1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=75406818
+[exp063_no_trans_f0_2]:https://www.kaggle.com/takamichitoda/chaii-train-large-model/log?scriptVersionId=75411155
+[exp063_no_trans_f0_3]:xxx
+[exp063_no_trans_f0_4]:xxx
+[exp063_no_trans_f0_5]:xxx
+[exp063_inf_f0_1]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75410885
+[exp063_inf_f0_2]:xxx
+[exp063_inf_f0_3]:xxx
+[exp063_inf_f0_4]:xxx
+[exp063_inf_f0_5]:xxx
 
 ## ToDo
 
