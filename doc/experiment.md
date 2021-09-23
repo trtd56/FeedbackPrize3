@@ -51,7 +51,7 @@
 |[exp062_no_acc_f0]|[exp062_inf_f0]|0.9373|0.6424|0.742||
 |[exp062_no_acc_f1]|[exp062_inf_f1]|0.9223|0.651|0.739||
 |||||||
-|[exp063_no_trans_f0_1]|[exp063_inf_f0_1]|||||
+|[exp063_no_trans_f0_1]|[exp063_inf_f0_1]|||0.735||
 |[exp063_no_trans_f0_2]|[exp063_inf_f0_2]||||sampling * 2|
 |[exp063_no_trans_f0_3]|[exp063_inf_f0_3]||||sampling * 4|
 |[exp063_no_trans_f0_4]|[exp063_inf_f0_4]||||sampling * 8|
