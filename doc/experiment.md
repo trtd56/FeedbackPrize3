@@ -57,7 +57,7 @@
 |[exp063_no_trans_f0_4]|||||sampling * 8|
 |[exp063_no_trans_f0_5]|[exp063_inf_f0_5]|||0.735|sampling * 4, cv lang|
 |||||||
-|[exp064_inc_sample_f0]|[exp064_inf_f0]|||||
+|[exp064_inc_sample_f0]|[exp064_inf_f0]|||0.744||
 
 [exp056_cv_mlqa_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74703280
 [exp056_cv_mlqa_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74706731
