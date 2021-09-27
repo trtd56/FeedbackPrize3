@@ -151,5 +151,6 @@
 - MSD
 - FP16なし
 - seed変える
-
+- gradient_accumulation_steps = 2
+- max_seq_length = 400 / doc_stride = 135
 
