@@ -58,6 +58,9 @@
 |[exp063_no_trans_f0_5]|[exp063_inf_f0_5]|||0.735|sampling * 4, cv lang|
 |||||||
 |[exp064_inc_sample_f0]|[exp064_inf_f0]|||0.744||
+|||||||
+|[exp065_accum2_f0]|[exp065_inf_f0]|||||
+
 
 [exp056_cv_mlqa_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74703280
 [exp056_cv_mlqa_f1]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=74706731
@@ -146,11 +149,13 @@
 [exp064_inc_sample_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=75509406
 [exp064_inf_f0]:https://www.kaggle.com/takamichitoda/chaii-infer-divide-model?scriptVersionId=75530217
 
+[exp065_accum2_f0]:https://www.kaggle.com/takamichitoda/chaii-train-large-model?scriptVersionId=75752626
+[exp065_inf_f0]:xxx
+
 ## ToDo
 
 - MSD
 - FP16なし
 - seed変える
-- gradient_accumulation_steps = 2
 - max_seq_length = 400 / doc_stride = 135
 
