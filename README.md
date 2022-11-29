@@ -1,6 +1,8 @@
-# [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/overview)
+# [Feedback Prize - English Language Learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning)
 
-![header](https://user-images.githubusercontent.com/5457315/129304550-26303c9f-c7a1-43f3-b2ce-a9594d9020af.png)
+Evaluating language knowledge of ELL students from grades 8-12
 
 
-- wandb: https://wandb.ai/trtd56/ChAII?workspace=user-trtd56
+![header](https://user-images.githubusercontent.com/5457315/204456729-089b9dee-82c9-45ef-accb-34d6b90dd3ef.png)
+
+- notion: [https://wandb.ai/trtd56/ChAII?workspace=user-trtd56](https://www.notion.so/feedback-d295a12a296842c4a7a9bf0d07841596)
